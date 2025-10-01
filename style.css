@@ -1,1 +1,17 @@
-
+body{
+    background: rgb(148, 105, 176);
+    
+}
+/*Select by TAG type*/
+p{
+    color:rgb(75, 240, 240);
+    background:rgb(246, 154, 218)
+}
+/*Select by ID name (unique)*/
+#lili{
+   background:rgb(234, 160, 134);
+}
+/*Select by CLASS name (shared styles)*/
+.uniform{
+    color:rgb(0, 0, 255);
+}
