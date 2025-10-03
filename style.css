@@ -15,3 +15,13 @@ p{
 .uniform{
     color:rgb(0, 0, 255);
 }
+
+
+h1{
+    color:rgb(0, 244, 232);
+    font-weight:  200;
+    font-style:italic;
+    font-size:50px;
+    font-family:fantasy;
+    text-align: center;
+}
